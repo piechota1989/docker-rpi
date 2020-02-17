@@ -5,5 +5,5 @@ sudo apt install -y python python-pip libffi-dev python-backports.ssl-match-host
 
 # Install Docker Compose from pip
 # This might take a while
-sudo apt install python3-pip
+sudo apt install -y python3-pip
 sudo pip3 install docker-compose
